@@ -1,8 +1,6 @@
 # Quantitative Modeling Exploration
 
-This is a repository for various quantitative modeling explorations I perform. Most of the explorations stored here will (or have) come from modeling topics I read about or hear somewhere, and want to explore in more detail.
-
-The current explorations are listed below.
+This is a repository for various quantitative modeling explorations I perform. Most of the explorations stored here will (or have) come from modeling topics I read about or hear somewhere, and want to explore in more detail. I have worked on these various topics over the course of a few years, just keeping the files on my computer, but decided to store them all in a single repository. The current explorations are listed below.
 
 ## Holt-Winters Time Series Modeling
 
