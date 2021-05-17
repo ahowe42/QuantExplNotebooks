@@ -29,4 +29,6 @@ The [jackknife](https://en.wikipedia.org/wiki/Jackknife_resampling) is a statist
 
 I have written [this tutorial](src/Plotly_tutorial.ipynb) to introduce the plotly visualization software package. Plotly is a powerful tool for developing interactive data visualizations. In addition to being powerful, it is also extremely flexible - perhaps even more than matplotlib. The plotly API is simple, with a shallow learning curve. With it's power and flexibility, one might think that plotly is sub-optimal for rapidly creating "throw-away" plots during exploratory work, and that another package should be used. This is not true - developing publication-ready visualizations with plotly is easy and quick. I have put together this tutorial / reference using my knowledge of plotly. I am sure it is very incomplete and that there topics I've missed. It is, at least, a start to practical use of plotly.
 
-## Automated Machine Learning with TPOT 
+## Automated Machine Learning with TPOT
+
+The acronym "TPOT" stands for "Tree-based Pipeline Optimization Tool". TPOT was first introduced in [this paper](https://dl.acm.org/doi/10.1145/2908812.2908918). It uses [Genetic Programming](https://en.wikipedia.org/wiki/Genetic_programming), with a customizable objective function to identify an optimal pipeline of operations for machine learning modeling. [This notebook](src/TPOT_Demo.ipynb) demonstrates using TPOT.
