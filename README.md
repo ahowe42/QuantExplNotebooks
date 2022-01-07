@@ -17,9 +17,9 @@ I read [this paper](docs/2019Chowdhuryetal_AntimicrobResitGameTheory.pdf), in wh
 
 ## Neural Networks
 
-While learning *Pytorch*, I built a simple binary classification neural network with pytorch - [this notebook](src/my_neuralnetwork_pytorch.ipynb).
+While learning *PyTorch*, I built a simple binary classification neural network with PyTorch - [this notebook](src/my_neuralnetwork_pytorch.ipynb). Based on this, I also created a simple tutorial for creating neural networks with PyTorch - [here](src/Pytorch_Tutorial_BinaryClass.ipynb).
 
-Having coded up neural networks with *TensorFlow*, *Keras*, and *Pytorch*, I decided to attempt building one from scratch by myself. [This notebook](src/my_neuralnetwork.ipynb) is the result. It is incomplete and will only work for modeling a continuous response, but a good exercise in coding a neural network - including forward & backward propagation - nonetheless.
+Having coded up neural networks with *TensorFlow*, *Keras*, and *PyTorch*, I decided to attempt building one from scratch by myself. [This notebook](src/my_neuralnetwork.ipynb) is the result. It is incomplete and will only work for modeling a continuous response, but a good exercise in coding a neural network - including forward & backward propagation - nonetheless.
 
 ## Outlier Detection with Jackknife Resampling
 
