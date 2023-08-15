@@ -32,3 +32,7 @@ I have written [this tutorial](src/Plotly_tutorial.ipynb) to introduce the plotl
 ## Automated Machine Learning with TPOT
 
 The acronym "TPOT" stands for "Tree-based Pipeline Optimization Tool". TPOT was first introduced in [this paper](https://dl.acm.org/doi/10.1145/2908812.2908918). It uses [Genetic Programming](https://en.wikipedia.org/wiki/Genetic_programming), with a customizable objective function to identify an optimal pipeline of operations for machine learning modeling. [This notebook](src/TPOT_Demo.ipynb) demonstrates using TPOT.
+
+## Identifying Nonlinear Correlations with Mutual Information
+
+I developed [this notebook](src/MutualInformation_Corr.ipynb) to explore and demonstrate using the maximal information coefficient and total information coefficient to identify nonlinear correlations in a dataset, as a supplement to the usual linear correlation coefficient. It is based on [this paper](https://www.science.org/doi/10.1126/science.1205438\).
